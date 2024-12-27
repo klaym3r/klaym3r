@@ -1,4 +1,4 @@
-- Hi, I’m @klaym3r
+- KPFU student
 - С++
 - Russia, Kazan
 
