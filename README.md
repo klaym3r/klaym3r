@@ -1,5 +1,5 @@
 - Hi, I’m @klaym3r
-- c++ ; python
+- С++
 - Russia, Kazan
 
 <!---
