@@ -1,5 +1,5 @@
 - KPFU student
-- С++
+- python
 - Russia, Kazan
 
 <!---
