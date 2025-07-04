@@ -1,6 +1,6 @@
-- KPFU student
-- python
-- Russia, Kazan
+19
+Russia, Kazan
+python
 
 <!---
 klaym3r/klaym3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
